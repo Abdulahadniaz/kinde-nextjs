@@ -53,7 +53,7 @@ export default async function RootLayout({
                       {user?.given_name} {user?.family_name}
                     </p>
 
-                    <LogoutLink className="text-subtle">Log out</LogoutLink>
+                    <LogoutLink className="text-subtle">Log out!!</LogoutLink>
                   </div>
                 </div>
               )}

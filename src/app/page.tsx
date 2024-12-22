@@ -15,7 +15,7 @@ export default function Home() {
           rel="noreferrer"
           className="btn btn-light btn-big"
         >
-          Go to docs
+          Go to docs!!
         </Link>
       </div>
     </div>
